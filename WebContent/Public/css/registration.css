@@ -1,0 +1,206 @@
+body{
+    background-image: url("../images/jeshoots-com-722888-unsplash.jpg");
+    background-size: 100%;
+ }
+.centered-form{
+	margin-top: 60px;
+}
+
+.centered-form .panel{
+        background: rgba(19, 6, 6, 0.8);
+    box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+    width: 120%;
+}
+
+
+.loginBox
+{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    height: 420px;
+    padding: 80px 40px;
+    box-sizing: border-box;
+    background: rgba(0, 0, 0, 0.5);
+}
+.user
+{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	overflow: hidden;
+	position: absolute;
+	top: calc(-100px/2);
+	left: calc(50% - 50px);
+}
+h2
+{
+	margin: 0;
+	padding: 0 0 20px;
+	color: #efed40;
+	text-align: center;
+}
+.loginBox p
+{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color: #fff;
+}
+.loginBox input
+{
+	width: 100%;
+	margin-bottom: 20px;
+}
+.loginBox input[type="text"],
+.loginBox input[type="password"]
+{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+}
+::placeholder
+{
+	color: rgba(255,255,255,.5);
+}
+.loginBox input[type="submit"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+	background: #ff267e;
+	cursor: pointer;
+	border-radius: 20px;
+}
+.loginBox input[type="submit"]:hover
+{
+	background: #efed40;
+	color: #262626;
+}
+.loginBox a
+{
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.registrationBox{
+margin-left: -415px;
+}
+.registrationBox p
+{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color: #fff;
+}
+
+.registrationBox input[type="submit"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+	background: #ff267e;
+	cursor: pointer;
+	border-radius: 20px;
+}
+.registrationBox input[type="submit"]:hover
+{
+	background: #efed40;
+	color: #262626;
+}
+.registrationBox a
+{
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.centered-form{
+	margin-top: 60px;
+}
+
+.centered-form .panel{
+    background: rgba(33, 16, 16, 0.8);
+    box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+}
+
+.registrationBox input[type="reset"]:hover
+{
+	background: #efed40;
+	color: #262626;
+}
+
+
+.registrationBox input[type="reset"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+	background: #ff267e;
+	cursor: pointer;
+	border-radius: 20px;
+}
+ .dob_user{
+ width: 130px;
+ }
+ 
+ 
+ 
+ .cancel-ticket{
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    height: 100%;
+    width: 89%;
+    border-radius: 72px;
+    margin-left: 117px;
+ 
+ 
+ }
+ 
+.cancel-ticket h3
+{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color: #fff;
+}
+
+.cancel-ticket p
+{
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color: #f5c7c7;
+}
+
+
+ .cancel-ticket-heading{
+  color:red;
+}
+
+.cancel-ticket:nth-of-type(odd) {
+ margin-top:5px; 
+}
+
+.cancel-ticket:nth-of-type(even) {
+ margin-top:5px; 
+}
+ 
+
+
+
+

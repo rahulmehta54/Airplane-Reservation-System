@@ -1,0 +1,61 @@
+ body {
+    height: 1000px; 
+   /*  background: linear-gradient(to bottom,  #00ccff 0%, #ccffff 100%); */
+     background-image: url(../image/sky.jpg);
+} 
+#main
+{
+	margin-left:0px;margin-right:0px;padding-right:0px;padding-left:0px;
+}
+#title
+{
+	align:left; font-size:100px;font-family: serif;
+	margin-top: 40px;
+}
+#rows
+{
+	margin-left: 0px;margin-right: 0px;
+}
+#menubar
+{
+	margin-left:0px;margin-right:0px;padding-right:0px;padding-left:0px;
+}
+#block
+{    border-radius: 25px;
+	    background-color: gainsboro;
+	border:solid; margin-top: 20px;margin-bottom: 20px;margin-left: 20px;margin-right: 20px;
+}
+#div2
+{
+	  
+	padding: 20px;
+}
+#div3
+{
+	margin-left: 20px;
+}
+#email
+{
+	width: 200%;
+}
+#mno
+{
+	width: 200%;
+}
+
+#test
+{
+	margin-left:430px;
+width: 1000px;
+padding: 20px;
+border: 2px solid #000;
+border-radius: 15px;
+-moz-border-radius: 15px;
+background-color: gainsboro;
+}
+
+.detail_user_1{
+	border-radius: 25px;
+border: solid;width:59.6%;   
+background-color: gainsboro;     
+}

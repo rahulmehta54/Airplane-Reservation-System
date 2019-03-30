@@ -1,0 +1,149 @@
+body{
+    background-image: url("../images/jeshoots-com-722888-unsplash.jpg");
+    width: 100%;
+ }
+.search_bar{
+    background-color: #d9edf7;
+    width: 100%;
+    background-color: #d9edf7;
+    width: 100%;
+    margin-top: 19px;
+}
+
+.air_detail_1{
+
+background-color: antiquewhite;
+}
+
+.air_detail_2{
+
+background-color: darkturquoise;
+}
+
+.airplane_detail{
+    margin-top: 27px;
+	
+    width: 46%;
+    margin-left: 25%;
+}
+
+.submit-button {
+  margin-top: 10px;
+}
+
+.payment-gateway{
+margin-top: 280px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #337ab7;
+   color: white;
+   text-align: center;
+}
+
+.stickyFltr.navSection {
+    border-top: 3px solid #efefef;
+    -webkit-box-shadow: 0 5px 5px -5px rgba(51,51,51,0.51);
+    -moz-box-shadow: 0 5px 5px -5px rgba(51,51,51,0.51);
+    box-shadow: 0 5px 5px -5px rgba(51,51,51,0.51);
+}
+#user_email {
+    width: 100%;
+}
+
+
+.gateway_heading{
+color: darkred;
+    margin-left: 10px;
+}
+.payment-gateway{
+margin-top: 3px;
+}
+
+
+.ticket_sucess{
+    background-color: white;
+    border: 1px black solid;
+    width: 50%;
+	    margin-top: 30px;
+    margin-left: 496px;
+	    border-radius: 25px;
+}
+
+
+.Booking_search_box{
+   
+    background: rgba(33, 16, 16, 0.8);
+    box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+   opacity: 1.6;
+    width: 226%;
+    color: whitesmoke;
+    margin-left: -195px;
+    margin-top: 11px;
+}
+
+.search_box_detail{
+    background: rgba(0, 0, 0, 0.8);
+    box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+    opacity: 1.6;
+    /* width: 226%; */
+    color: whitesmoke;
+    /* margin-left: -195px; */
+    margin-top: -21px;
+}
+
+
+
+.flight_list{
+ background: rgba(0, 0, 0, 0.8);
+ color:white;
+ height:100%
+}
+
+.flight_list p{
+margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color: #fff;
+}
+
+#ticket_detail{
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    height: 100%;
+    width: 40%;
+    margin-left: 95px;
+border-radius: 15px 50px 30px;
+}
+
+#ticket_summery{
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    height: 100%;
+    width: 40%;
+    margin-left: 95px;
+border-radius: 15px 50px 30px;
+
+}
+
+.Add_member_list{background: rgba(0, 0, 0, 0.8);
+ color: white;
+    height: 100%;
+    width: 40%;
+    margin-left: 95px;
+}
+
+
+
+.error {
+  color: #ff267e;
+  margin-left: 5px;
+}
+ 
+label.error {
+  display: inline;
+}
